@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  padding-top: 100px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.formulario {
+  width: 500px;
+}
+
+.cc {
+  width: 100%;
+  text-align: center;
+}
+
+button {
+  width: 100%;
+}
